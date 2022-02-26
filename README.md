@@ -1,5 +1,7 @@
 # Parking Rotatif
 
+## Contexte Général
+
 Depuis plusieurs années le nombre de voiture dans nos villes ne cesse de croitre. 
 Le sationnement des voitures dans plusieurs villes est devenu un véritable problèmes en raison du nombre important des voitures 
 et l'insuffisance des espaces des stationnements, ce qui entraine un bouchonnement des villes. Le parking Rotatif est un système de stationnement rotatif qui au point de vue de l´espace et du prix répresente une solution effective pour le problème de stationnement urbain d´aujourd´hui. Il a de petites dimentions horizontales avec la surface à peu près de deux places de parking.
